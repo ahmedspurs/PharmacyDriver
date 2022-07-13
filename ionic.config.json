@@ -1,0 +1,7 @@
+{
+  "name": "PhrmacyProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
